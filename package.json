@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "author": "Stefan Beeman <stefan@eldritchmedia.com>",
   "description": "Implementation of Conway's game of life.",
-  "repository": "https://github.com/sbeeman12/interview.git",
+  "repository": "https://github.com/sbeeman12/headnote.git",
   "dependencies": {
     "babel-core": "^6.25.0",
     "babel-register": "^6.24.1",
